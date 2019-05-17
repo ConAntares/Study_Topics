@@ -1,3 +1,3 @@
-# Study_Topics
+# Study Topics
 
 :notes: My notes for study topics.
